@@ -6,19 +6,12 @@ Travelling Salesman Problem is based on a real-life scenario, where a salesman f
 
 ## Getting Started
 
-An console based Travelling Salesman problem program. Download or fork to run with Codeblocks IDE. Created for Data Structures and Algorithms Course Project in 3rd Sem Btech.
-* One Presentation file is also attached for deep explanation on the following topic. Refer for more infor there...
+An console based Travelling Salesman problem program. Created for Data Structures and Algorithms Course Project in 3rd Sem Btech.
 
 ## Built With
 
 * C++
 * CodeBlocks IDE
-
-## Contributing
-
-1.  Fork the repository
-2.  Do the desired changes (add/delete/modify)
-3.  Make a pull request
 
 ## Sample Output
 O![output](https://user-images.githubusercontent.com/56217073/148569071-5a7f40a1-8a8e-489a-959b-6007c665d0fd.png)
